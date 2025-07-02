@@ -7,6 +7,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 -   [Overview](#overview)
     -   [The challenge](#the-challenge)
     -   [Screenshot](#screenshot)
+    -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
 -   [Author](#author)
@@ -24,8 +25,15 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop view
 ![Project- desktop view](assets/images/project-desktop.png)
+
+Mobile view
 ![Project- mobile view](assets/images/project-mobile.png)
+
+### Links
+
+-   Live Site URL: [Live site](https://ddm-projects.github.io/faq-accordion/)
 
 ## My process
 
@@ -36,7 +44,7 @@ Users should be able to:
 -   JavaScript
 -   Flexbox
 -   Mobile-first workflow
--   [Font: Work Sans from Google Fonts](https://fonts.google.com/specimen/Work+Sans).
+-   [Font: Work Sans from Google Fonts](https://fonts.google.com/specimen/Work+Sans)
 
 ## Author
 
