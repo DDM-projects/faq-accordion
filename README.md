@@ -26,9 +26,11 @@ Users should be able to:
 ### Screenshot
 
 Desktop view
+
 ![Project- desktop view](assets/images/project-desktop.png)
 
 Mobile view
+
 ![Project- mobile view](assets/images/project-mobile.png)
 
 ### Links
