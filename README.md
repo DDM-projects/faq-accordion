@@ -1,4 +1,5 @@
 # Frontend Mentor - FAQ accordion solution
+Live Site URL: [FAQ accordion](https://ddm-projects.github.io/faq-accordion/)
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -7,7 +8,6 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 -   [Overview](#overview)
     -   [The challenge](#the-challenge)
     -   [Screenshot](#screenshot)
-    -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
 -   [Author](#author)
@@ -32,10 +32,6 @@ Desktop view
 Mobile view
 
 ![Project- mobile view](assets/images/project-mobile.png)
-
-### Links
-
--   Live Site URL: [Live site](https://ddm-projects.github.io/faq-accordion/)
 
 ## My process
 
